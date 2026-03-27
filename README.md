@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Tanish Jaiswal
 <img src="photo.jpeg" width="150" style="border-radius:50%;" />
 ## 🚀 About Me
-MCA student with strong knowledge of SQL, Excel, Python, and data visualization tools like Tableau and Microsoft Power BI. Passionate about analyzing data, creating dashboards, and deriving meaningful insights. Seeking an entry-level Data Analyst role to apply analytical and problem-solving skills in a growth-oriented organization.
+MCA student with strong knowledge of SQL, Excel, Python, and data visualization tools like Tableau . Passionate about analyzing data, creating dashboards, and deriving meaningful insights. Seeking an entry-level Data Analyst role to apply analytical and problem-solving skills in a growth-oriented organization.
 ---
 
 ## 🎓 Education
@@ -97,4 +97,4 @@ Built an interactive dashboard to track and analyze monthly expenses, helping us
 ## 📫 Contact Me
 - Email: jaiswaltanish1518@gmail.com  
 - Phone: +91 9335731518  
-- LinkedIn: https://www.linkedin.com/in/tanish-jaiswal-a552a9241/.....project ye sab jada explain karo ....
+- LinkedIn: https://www.linkedin.com/in/tanish-jaiswal-a552a9241/
