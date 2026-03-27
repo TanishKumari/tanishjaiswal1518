@@ -2,10 +2,7 @@
 # 👋 Hi, I'm Tanish Jaiswal
 <img src="photo.jpeg" width="150" style="border-radius:50%;" />
 ## 🚀 About Me
-MCA student with strong skills in HTML, CSS, JavaScript, PHP, SQL, Python, Excel, and Tableau.  
-I enjoy building web applications and dashboards.  
-Looking for an entry-level Web Developer or Software Trainee role.
-
+MCA student with strong knowledge of SQL, Excel, Python, and data visualization tools like Tableau and Microsoft Power BI. Passionate about analyzing data, creating dashboards, and deriving meaningful insights. Seeking an entry-level Data Analyst role to apply analytical and problem-solving skills in a growth-oriented organization.
 ---
 
 ## 🎓 Education
